@@ -1,0 +1,21 @@
+{
+   Register : [
+    {
+       name :  Lucas  
+       last_name :  Slepetys  
+       email :  lucas@gmail.com  
+       password :  123  
+       confirm_password :  123 
+    }
+  ]
+}{
+   Register : [
+    {
+       name :  roberto  
+       last_name :  slepetys  
+       email :  roberto@gmail.com  
+       password :  456  
+       confirm_password :  456 
+    }
+  ]
+}

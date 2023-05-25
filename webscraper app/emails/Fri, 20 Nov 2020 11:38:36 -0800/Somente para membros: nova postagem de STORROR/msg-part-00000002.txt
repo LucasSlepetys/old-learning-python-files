@@ -1,0 +1,103 @@
+
+<html>
+<body>
+<table style="max-width: 650px; font-family: 'Roboto',sans-serif; font-size: 16px" width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="3" width="100%" height="40" style="background-image: url(https://www.gstatic.com/youtube/img/email/membership/membership-header-650x40.png)">
+</td>
+</tr>
+<tr>
+<td width="25"></td>
+<td>
+<table width="100%" align="center" style="margin-top: 20px" border="0" cellpadding="0" cellspacing="0">
+<tr valign="center">
+<td align="left">
+<a href="https://www.youtube.com/attribution_link?a=VFigdxVEVrNbBMF1&amp;u=/"><img alt="Youtube Logo" class="header_logo_size" height="30" src="http://www.gstatic.com/youtube/img/branding/youtubelogo/1x/youtubelogo_60.png" border="0"/></a>
+</td>
+<td align="right">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td style="padding: 2px; background: rgba(238, 238, 238, 0.6); font-size: 12px; font-weight: 500">
+<img style="vertical-align: middle; height: 14px" src="https://www.gstatic.com/youtube/img/email/membership/sponsorships_icon_green_36dp.png" border="0"/>
+Somente para membros
+</td></tr></table>
+</td>
+</tr>
+</table>
+<table width="100%" align="center" style="margin-top: 35px" border="0" cellpadding="0" cellspacing="0">
+<tr align="left" valign="top">
+<td width="38" align="left">
+<a href="https://www.youtube.com/attribution_link?a=VFigdxVEVrNbBMF1&amp;u=/channel/UCdPui8EYr_sX6q1xNXCRPXg%3Ffeature%3Dem-sponsor">
+<img src="https://lh3.googleusercontent.com/-8JA4EXyDsc0/AAAAAAAAAAI/AAAAAAAAAAA/AKDkNP8Ps00/s34-cc-mo/photo.jpg" width="34" height="34" border="0"/>
+</a>
+</td>
+<td style="font-size: 14px; line-height: 20px">
+<div style="margin-top: 3px">
+Hello everyone! A Cavemen scout preview of what's to come 👀
+</div>
+<div>
+<a href="https://www.youtube.com/attribution_link?a=VFigdxVEVrNbBMF1&amp;u=/channel/UCdPui8EYr_sX6q1xNXCRPXg%3Ffeature%3Dem-sponsor" style="color: rgb(136, 136, 136); font-size: 12px; text-decoration: none;">
+STORROR
+</a>
+</div>
+</td>
+</tr>
+</table>
+<div style="margin-top: 12px; padding: 11px; border: thin solid #e3e3e3; background: #f5f5f5; -moz-border-radius: 1px; -webkit-border-radius: 1px; -khtml-border-radius: 1px; border-radius: 1px; line-height: 24px">
+<a href="https://www.youtube.com/attribution_link?a=VFigdxVEVrNbBMF1&amp;u=/watch%3Fv%3DsKJ9EhpcS1Q" style="text-decoration: inherit; color: inherit">
+<table width="100%" background="http://i.ytimg.com/vi/sKJ9EhpcS1Q/sddefault.jpg?sqp=-oaymwEGCIAFEOgC&rs=AMzJL3mGyZzAfVNvplJH1elsfGPn5sLjVA&feature=em-sponsor" style="width: 100%; padding-top: 45%; margin-top: 12px; background-size: cover; background-position: center center; background-repeat: no-repeat" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr valign="bottom">
+<td align="right">
+<div style="margin-bottom:8px; margin-right:8px; border-radius:2px; background-color: #212121; padding:2px 4px; display:inline-block; color:#fff; text-align:right; font-size: 12px;">9:55</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div>LDN water challenge video scout</div>
+</a>
+<div style="color: #636363; font-size: 14px">STORROR</div>
+</div>
+<div style="margin-top: 25px">
+<a href="https://www.youtube.com/attribution_link?a=VFigdxVEVrNbBMF1&amp;u=/channel/UCdPui8EYr_sX6q1xNXCRPXg/community%3Ffeature%3Dem-sponsor%26lb%3DUgynfpkJD25VG_aaw3B4AaABCQ" style="text-decoration: none">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding: 0 20px; background-color:#0e7dcf; -webkit-text-size-adjust:none; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; line-height: 40px; font-weight:bold; color:#FFFFFF; letter-spacing:0px; text-transform: uppercase">
+Ver postagem
+</td>
+</tr>
+</table>
+</a>
+</div>
+<hr style="margin-top: 22px; display: block;height: 1px;border: 0;border-top: 1px solid #eaeaea;margin-bottom: 16px;padding: 0;"></hr>
+<table class="inner-container-width" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td class="footer-font" style="color: #757575; font-size:12px; line-height:16px; letter-spacing:0px; -webkit-text-size-adjust:none; word-wrap:break-word;">
+Se não quiser mais receber e-mails sobre postagens exclusivas para membros, <a href="https://www.youtube.com/attribution_link?noapp=1&amp;a=VFigdxVEVrNbBMF1&amp;u=/channel_updates_unsubscribe%3Fuid%3DcJxzltoZmTDUucFiAtM84w%26channel_id%3DUCdPui8EYr_sX6q1xNXCRPXg%26token%3DPkiIlpqsMEuAgwGcT56iQp-eWmx8MTYwNTkwMTExNUAxNjA1OTAxMTE1%26feature%3Dem-sponsor">cancele a inscrição</a>.
+</td>
+</tr>
+<tr><td>
+<table class="footer-content-padding-height" height="16" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td class="footer-content-padding-height" height="16"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class="footer-font" style="color: #757575; font-size:12px; line-height:16px; letter-spacing:0px; text-decoration:none; -webkit-text-size-adjust:none;">
+© 2020 YouTube, LLC 901 Cherry Ave, San Bruno, CA 94066
+</td>
+</tr>
+<tr><td>
+<table class="footer-content-padding-height" height="16" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td class="footer-content-padding-height" height="16"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+<img class="open_tracking_img" src="https://www.youtube.com/attribution_link?a=VFigdxVEVrNbBMF1&amp;u=/gen_204%3Fa%3Dem-sponsor" width="1" height="1" style="display:none !important; visibility: hidden; width: 0; height: 0; opacity: 0; color: transparent;"/>
+</td>
+<td width="25"></td>
+</tr>
+</table>
+</body>
+</html>

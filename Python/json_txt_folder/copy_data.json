@@ -1,0 +1,43 @@
+[
+  {
+    "Day": 1,
+    "Push ups": 30,
+    "Pull ups": 20,
+    "Dips": 30,
+    "Curls(10KLs)": 12,
+    "Squats": 30
+  }
+]{
+  "Workout": [
+    {
+      "Day": 23,
+      "Push ups": 2342,
+      "Pull ups": 4,
+      "Dips": 24,
+      "Curls(10KLs)": 42,
+      "Squats": 42
+    }
+  ]
+}{
+  "Workout": [
+    {
+      "Day": 10,
+      "Push ups": 10,
+      "Pull ups": 1,
+      "Dips": 1,
+      "Curls(10KLs)": 1,
+      "Squats": 1
+    }
+  ]
+}{
+  "Workout": [
+    {
+      "Day": 10,
+      "Push ups": 1,
+      "Pull ups": 1,
+      "Dips": 1,
+      "Curls(10KLs)": 1,
+      "Squats": 1
+    }
+  ]
+}
